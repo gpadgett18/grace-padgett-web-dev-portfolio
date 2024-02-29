@@ -1,0 +1,112 @@
+/*
+Grace Padgett
+Assignment 4
+COSC 1426.902
+2/11/23
+*/
+
+#include <iostream>
+#include <cmath>
+#include <iomanip>
+#include <string>
+#include <map>
+
+using namespace std;
+
+//map choice to item
+void choiceToItem()
+{   //map number to item and call in loop to display menu
+    map <int, string> items =
+    {
+        {1, "Bread"}, {2, "Milk"}, {3, "Soap"}, {4, "Eggs"}, {5, "Deodorant"}, 
+        {6, "Juice"}, {7, "Chips"}, {8, "Forks"}, {9, "Spoons"}, {10, "Cups"}
+    };
+}
+
+int intInput(string x) {
+    int input = 0;
+    cout << "Enter " << x << ": ";
+    cin >> input;
+    return input;
+}
+
+double dblInput(string x) {
+    double input = 0;
+    cout << "Enter " << x << ": ";
+    cin >> input;
+    return input;
+}
+
+//function to determine if it has tax
+bool isTaxable(int x) {
+    if (x == 1 || x == 2 || x == 4 || x == 6 || x == 7) {
+        return false;
+    } else {
+        return true;
+    }
+}
+
+
+int main()
+{
+    //declare and initialize variables
+    int menuChoice = 0;
+    double tax = 0,
+           price = 0,
+           age = 0,
+           seniorDiscount = 0,
+           total = 0;
+    const double DISCOUNT_RATE = .05;
+    const double TAX_RATE = .08;
+    
+    //choiceToItem(); //call menu map function
+    
+    map <int, string> items =
+    {
+        {1, "Bread"}, {2, "Milk"}, {3, "Soap"}, {4, "Eggs"}, {5, "Deodorant"}, 
+        {6, "Juice"}, {7, "Chips"}, {8, "Forks"}, {9, "Spoons"}, {10, "Cups"}
+    };
+    
+    for (auto element:items) {
+        cout << element.first << ": " << element.second << endl;
+    }
+    
+    while (menuChoice < 1 || menuChoice > 10) {
+        menuChoice = intInput("choice");
+        if (menuChoice < 1 || menuChoice > 10) {
+            cout << "Please enter a valid menu choice.";
+        }
+    }
+
+    //use input functions
+    price = dblInput("price");
+    age = intInput("age");
+        
+    //call function to see if has tax and calculate
+    bool hasTax = isTaxable(menuChoice);
+    if (hasTax == true) {
+        tax = price * TAX_RATE;
+    }
+        
+    bool hasDiscount = false;
+    
+    if (age > 60) { //if senior discount applies
+        seniorDiscount = price * DISCOUNT_RATE; //calculate discount
+        hasDiscount = true;
+    }
+    
+    total = price + tax - seniorDiscount;
+            
+    cout << setprecision(2) << fixed; //output has 2 decimal places
+            
+    //display formatted output
+    cout << setw(11) << "\nInvoice" << endl;
+    cout << left << setw(10) << "Price:" << "$" << price << endl;
+    cout << setw(10) << "Tax:" << "$" << tax << endl;
+    if (hasDiscount == true) {
+        cout << setw(10) << "Discount: " << "$-" << seniorDiscount << endl;
+    }
+    cout << setw(10) << "Total:" << "$" << total << endl;
+
+    return 0;
+}
