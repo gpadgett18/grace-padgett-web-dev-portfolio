@@ -1,0 +1,127 @@
+/* 
+    Competition Score (7b)
+    Grace Padgett
+    COSC 1436.902
+    4/29/2023
+*/
+
+#include <iostream>
+#include <fstream>
+#include <cmath>
+#include <iomanip>
+#include <string>
+
+using namespace std;
+
+//global constants
+const int MIN_SCORES = 0;
+const int MAX_SCORES = 10;
+const int MAX_ATHLETES = 10;
+const int SCORES = 10;
+
+int readScores(ifstream& file, string names[], double scores[][MAX_ATHLETES], string error[]) {
+    
+    //return value 
+    int numScores = 0;
+    
+    int j = 0;
+    //j is how many athletes successfully read from file
+    for (; j < MAX_ATHLETES && file; ++j) {
+        //breaks out of loop if problem reading name or eof
+        if (!getline(file, names[j])) {
+            break;
+        }
+        
+        //reads scores for each athlete. ends when eof or error reading
+        for (int i = 0; i < MAX_SCORES && (file >> scores[i][j]); ++i);
+        
+        numScores = j; //set return value
+        
+        //error for invalid scores
+        for (int i = 0; i < SCORES; i++) {
+            if (scores[i][j] < MIN_SCORES || scores[i][j] > MAX_SCORES)
+                error[j] = "invalid score";
+        }
+
+        //ignores newline character to read next athletes name
+        file.ignore();
+    }
+    return numScores; //returns number of athletes
+}
+
+double getAverage(int j, int numScores, string names[], double scores[][MAX_ATHLETES], string error[]) {
+    
+    
+    double highScore = MIN_SCORES;
+    double lowScore = MAX_SCORES;
+    double sum = 0;
+    
+    //find highest and lowest scores
+    for (int i = 0; i < SCORES; i++) {
+        sum += scores[i][j]; //get sum
+        if (scores[i][j] > highScore)
+            highScore = scores[i][j];
+    
+        if (scores[i][j] < lowScore)
+            lowScore = scores[i][j];
+    }
+            
+    double average;
+    //calculate average
+    average = (sum - highScore - lowScore) / 8;
+    
+    //display results for each athlete
+    cout << names[j] << "'s results:" << endl;
+    for (int i = 0; i < SCORES; i++) {
+        cout << setprecision(2) << fixed << scores[i][j];
+        if (i < 9)
+            cout << ", ";
+    }
+    cout << "\nThe highest score of " << highScore 
+        << " and the lowest score of " << lowScore 
+        << " were dropped.\nThe average score is " << average << endl << endl;
+
+    return average;
+}
+
+int main() {
+    
+    string fileName;
+    
+    //get file name from user
+    cout << "Please enter file name: ";
+    cin >> fileName;
+    
+    //open file
+    ifstream inputFile(fileName);
+
+    if (inputFile) { //file opened successfully
+        
+        //error array
+        string error[MAX_ATHLETES] = {"", "", "", "", "", "", "", "", "", ""};
+        
+        //arrays for scores and names
+        double scores[SCORES][MAX_ATHLETES];
+        string names[MAX_ATHLETES];
+        
+        //call function 1 to read file 
+        int numScores = readScores(inputFile, names, scores, error);
+        
+        //close file
+        inputFile.close();
+        
+        for (int j = 0; j <= numScores; j++) {
+            if (error[j] != "") { //check for error for each athlete
+                cout << names[j] << " disqualified due to " << error[j] 
+                << ".\n" << endl; //output error message
+            } else { //call function 2 to get average and display results
+                getAverage(j, numScores, names, scores, error);
+            }
+        }
+    
+    } else { //file didn't open
+        cout << "Error: File could not be opened." << endl;
+    }
+    
+    return 0;
+}
