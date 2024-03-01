@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Weather App</title>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+		<link rel="stylesheet" href="style2.css">
+		<script src="script2.js" defer></script>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+	</head>
+
+	<body>
+		<div class="card">
+			<div class="search">
+				<input type="text" class="search-bar" placeholder="Search">
+				<button id="searchButton"><i class="fa fa-search" aria-hidden="true"></i></button>
+			</div>
+		
+			<div class="location">
+				<button id="locate">Current Location</button>
+			</div>
+			
+			<div class="weather loading" id="weatherInfo">
+				<h2 class="city">Weather in City, Country</h2>
+				<div class="temp">--°F</div>
+				<div class="flex">
+					<img src="https://openweathermap.org/img/wn/04n.png" alt="" class="icon">
+					<div class="description">--</div>
+				</div>
+				<div class="humidity">Humidity: --%</div>
+				<div class="wind">Wind Speed: -- km/h</div>
+
+			</div>
+		</div>
+	</body>
+</html>

@@ -6,6 +6,6 @@ I originally was paired with one other backend developer, but that person left t
 
 The Database used for this app was on a live server which no longer exists, but I have included a diagram of the database since I designed and added all tables/columns/data myself. It is a png file located in my python folder called db diagram, please feel free to reference it while purusing my app!
 
-This project was huge learning opportunity for me, and I had to do a lot of my own research and testing to find the right solutions. 
+This project was huge learning opportunity for me, and I worked countless hours researching and testing to find the right solutions. It grew my passion for web deveopment, and significantly strengthened my skills and confidence. 
 
 Please reach out if you need any more information!
