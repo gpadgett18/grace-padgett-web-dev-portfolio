@@ -1,8 +1,8 @@
 /*
-Grace Padgett
-Assignment 4
-COSC 1426.902
-2/11/23
+    Grace Padgett
+    Language: C++
+    Displays menu and get input for menu choice and price
+    calculates and displays tax, discount and total based on item selection
 */
 
 #include <iostream>

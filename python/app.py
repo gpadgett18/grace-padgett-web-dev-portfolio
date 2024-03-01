@@ -1,6 +1,6 @@
 # Grace Padgett
 # Python
-# Capstone messaging app backend
+# Capstone project: backend of a messaging app
 
 import psycopg2 # connect to postgres database
 
@@ -36,11 +36,10 @@ def startdb(): # function to start database connection and create cursor
                     password="VeqKMiDIcOWKEAT3SmjF8ZJM5UemCw8O", 
                     database="inew2374250fall23", 
                     options="-c search_path=msg_app")
-        
-        cur = conn.cursor() # create a cursor to run queries in database
-    except Exception as e:
-        print("Error: Could not connect to the database.")
-        print(str(e))
+    except: # print error if can't connect
+        print("Error: Could not connect to the database.") 
+
+    cur = conn.cursor() # create a cursor to run queries in database
 
 
 def closedb(): # function to commit changes and close cursor and connection
@@ -50,7 +49,7 @@ def closedb(): # function to commit changes and close cursor and connection
     conn.close() # close connection
 
 
-# # check if password meets requirements
+# check if password meets requirements
 @app.route('/validate/<password>', methods=['GET']) #password as route parameter
 def validatePassword(password):
     
@@ -94,11 +93,10 @@ def validatePassword(password):
     else:
         response = True
 
-    # return true/false
     return jsonify(response)
 
 
-# # create new user
+# create new user
 @app.route('/user/<name>/<email>/<password>', methods=['GET', 'POST'])
 def user(name, email, password):
 
@@ -136,19 +134,19 @@ def user(name, email, password):
                 msg.body = ("Confirm your email address here: " + confirmation_link + token) # mail message body
                 print("Email created successfully!")
                 mail.send(msg) # Sends the email using the gmail account specified in MAIL_SENDER
-                response = True # confirms that the email was sent
+                response = True # true if email was sent
             except: 
                 print("ERROR: Email did not send.")
                 response = False # returns false if email can't send
         else:
-            response = False
+            response = False # false if new user not added to db
 
     closedb() # commit changes and close cursor and database connection 
 
     return jsonify(response) # returns true if new user created and email sent, false if not
 
 
-# # update database when confirmation link is accessed
+# update database when confirmation link is accessed
 @app.route('/confirm/<token>') 
 def confirm_email(token):
     
@@ -171,7 +169,7 @@ def confirm_email(token):
     return jsonify(response) # returns true if successfully confirmed, false if not
 
 
-# # view all users (dev route)
+# view all users (dev route)
 @app.route('/allusers', methods=['GET'])
 def allusers():
 
@@ -190,7 +188,7 @@ def allusers():
     return jsonify(data) # return data for all users
 
 
-# # login w email and password
+# login w email and password
 @app.route('/login/<email>/<password>', methods=['GET'])
 def login(email, password): # define login function with arguments
 
@@ -239,7 +237,7 @@ GET_USER_ID = ( # get user ID using email
 )
 
 
-# # create new group (two members only) and add message to database using route parameters 
+# create new group (two members only) and add message to database using route parameters 
 @app.route('/create/<sender>/<message>/<date_time>/<recipient>', methods=['GET', 'POST']) 
 def create(sender=None, message=None, date_time=None, recipient=None): 
 
@@ -304,7 +302,7 @@ def create(sender=None, message=None, date_time=None, recipient=None):
         return jsonify(response) # return true if message successfully added
 
 
-# # reply to a message
+# reply to a message
 @app.route('/reply/<sender>/<message>/<date_time>/<groupID>', methods=['GET', 'POST'])
 def reply(sender=None, message=None, date_time=None, groupID=None): 
 
@@ -337,7 +335,7 @@ def reply(sender=None, message=None, date_time=None, groupID=None):
     return jsonify(response) # return all messages for that group
 
 
-# # display most recent message from each group that the user is a part of
+# display most recent message from each group that the user is a part of
 @app.route('/chats/<email>', methods=['GET'])
 def chats(email):
     
@@ -363,7 +361,7 @@ def chats(email):
     return response # returns each group the user is in and most recent chat from each group
 
 
-# # display all messages in a group
+# display all messages in a group
 @app.route('/messages/<groupID>', methods=['GET']) 
 def messages(groupID): 
     
@@ -379,7 +377,7 @@ def messages(groupID):
     return response # return all messages for the group
 
 
-# # change status of a user to available, busy, or away
+# change status of a user to available, busy, or away
 @app.route('/status/<email>/<status>', methods=['GET', 'POST'])
 def set_status(email, status):
     
