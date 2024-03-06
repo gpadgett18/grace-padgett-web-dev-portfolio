@@ -1,0 +1,36 @@
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe.config
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.pdb
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csprojAssemblyReference.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.AddSubtractForm.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.MainForm.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.Properties.Resources.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.GenerateResource.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.CoreCompileInputs.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.pdb
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe.config
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.pdb
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csprojAssemblyReference.cache
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.AddSubtractForm.resources
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.MainForm.resources
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.multiplyDivideForm.resources
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.Properties.Resources.resources
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.GenerateResource.cache
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.CoreCompileInputs.cache
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.exe
+C:\Users\grace\Desktop\1330_C#\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.pdb
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe.config
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.pdb
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.AssemblyReference.cache
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.AddSubtractForm.resources
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.MainForm.resources
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.multiplyDivideForm.resources
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.Properties.Resources.resources
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.GenerateResource.cache
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.CoreCompileInputs.cache
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.exe
+C:\Users\grace\OneDrive\Desktop\c#\MultiformCalculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.pdb

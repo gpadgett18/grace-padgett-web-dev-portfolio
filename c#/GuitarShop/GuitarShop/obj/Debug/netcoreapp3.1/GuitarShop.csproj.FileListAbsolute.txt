@@ -1,0 +1,447 @@
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\libman.json
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.exe
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.deps.json
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.json
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.dev.json
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.pdb
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfoInputs.cache
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfo.cs
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CoreCompileInputs.cache
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cache
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cs
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.input.cache
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.output.cache
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorCoreGenerate.cache
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cache
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cs
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CopyComplete
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Manifest.cache
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.xml
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.dll
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.pdb
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.genruntimeconfig.cache
+C:\Murach\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csprojAssemblyReference.cache
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.exe
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.deps.json
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.json
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.dev.json
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.pdb
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.AssemblyReference.cache
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfoInputs.cache
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfo.cs
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CoreCompileInputs.cache
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cache
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cs
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Manifest.cache
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.xml
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\GuitarShop.styles.css
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.input.cache
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.output.cache
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorCoreGenerate.cache
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cache
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cs
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CopyComplete
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.dll
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.pdb
+C:\Users\grace\Desktop\SQL\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.genruntimeconfig.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.StaticWebAssets.xml
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.exe
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.deps.json
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.json
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.dev.json
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.pdb
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.AssemblyReference.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfoInputs.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfo.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CoreCompileInputs.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Manifest.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Pack.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.GuitarShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.GuitarShop.props
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.GuitarShop.props
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.GuitarShop.props
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.input.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.output.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorCoreGenerate.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CopyComplete
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.pdb
+C:\Users\grace\OneDrive\Desktop\advanced c#\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.genruntimeconfig.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.StaticWebAssets.xml
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.exe
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.deps.json
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.json
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.dev.json
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.pdb
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.AssemblyReference.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfoInputs.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfo.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CoreCompileInputs.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Manifest.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Pack.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.GuitarShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.GuitarShop.props
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.GuitarShop.props
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.GuitarShop.props
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.input.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.output.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorCoreGenerate.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cache
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cs
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CopyComplete
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.dll
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.pdb
+C:\Users\grace\OneDrive\Desktop\advanced c#\guitarShop\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.genruntimeconfig.cache

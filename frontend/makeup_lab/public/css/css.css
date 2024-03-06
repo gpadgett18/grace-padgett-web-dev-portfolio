@@ -1,0 +1,39 @@
+/* stylesheet for makeup lab */
+
+body {
+    background-color:floralwhite;
+    text-align: center;
+    align-items: center;
+}
+#image {
+    max-width: 95%;
+    max-height: 30em;
+}
+h1 {
+    text-shadow: 2px 2px 2px khaki;
+    color:midnightblue;
+    font-size: 4em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 10px;
+}
+button {
+    border-radius: 10%;
+    border-color: burlywood;
+    color:midnightblue;
+    background-color: khaki;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+input {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: midnightblue;
+    font-size: 1em;
+    font-weight: bold;
+}
+h2 {
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    background-color: khaki;
+    padding: 3px;
+}

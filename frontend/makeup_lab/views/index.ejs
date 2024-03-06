@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Upload Pics</title>
+        <link href="css/css.css" rel="stylesheet" type="text/css">
+    </head>
+
+    <body>
+        <h1>Upload Image Here</h1>
+        <%= typeof msg != 'undefined' ? msg : '' %>
+        <form method="POST" action="/Upload" enctype="multipart/form-data">
+            <main>
+                <input name="files" type="file" id="imgfile">
+                <button type="submit">Submit</button>
+            </main>
+        </form>
+
+        <h2>Your Image</h2>
+        <img src="<%= typeof file != 'undefined' ? file: '' %>" id="image">
+
+    </body>
+
+</html>
