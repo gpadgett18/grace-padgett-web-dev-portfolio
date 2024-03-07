@@ -1,11 +1,11 @@
 Hi, I'm Grace. Welcome to my portfolio!
 
 
-I've included many apps from different projects and classes. Each outer folder has a README file for more info.
+I've included many apps from different projects and classes. Each parent folder has a README file for more info.
 
 I've organized by coding language, and the frontend folder contains HTML, CSS, and Javascript. 
 
-Express.js is primarily used in backend development, so it has a seperate folder.
+As express.js is primarily used in backend development, it has a seperate folder.
 
 My mobile dev folder contains a mobile app I created using React Native on Expo. 
 
